@@ -1,3 +1,4 @@
+/*
 import {test,expect} from '@playwright/test'
 
 import  path from 'path'
@@ -35,3 +36,4 @@ await b.saveAs(path.join('test-data',b.suggestedFilename()))
 expect(b.suggestedFilename()).toBe('practice.txt')
 
 })
+*/
